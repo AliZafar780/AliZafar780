@@ -1,125 +1,116 @@
-
-  OBSIDIAN EDITION README
-  ARCHITECT: Z-BOT
-  MISSION: Communicate elite competence and a strategic vision.
+<!--
+  PROFILE ARCHITECTURE BY Z-BOT
+  IDENTITY: AliZafar780
+  OBJECTIVE: ESTABLISH TECHNICAL AUTHORITY
 -->
 
-<!-- 1. CUSTOM HEADER BANNER -->
-<!-- ======================= -->
-<!-- 
-  TODO: Create a banner image (1200x400px) and upload it to your repo. 
-  Concept: A dark, sleek background with a glowing neural network pattern on the left 
-  and a digital shield icon on the right, with "Ali Zafar" in a clean, modern font in the center.
--->
-<p align="center">
-  <img src="URL_TO_YOUR_CUSTOM_BANNER_IMAGE" alt="Ali Zafar - AI & Cyber Defense"/>
-</p>
+<!-- 1. HEADER BANNER -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/AliZafar780/AliZafar780/main/assets/github_banner.png" alt="Ali Zafar - Architect of Intelligent Defense Systems">
+</div>
 
-<h1 align="center">Ali Zafar</h1>
-<p align="center">
-  <i>Architecting Secure AI. Where Silicon Brains Meet Iron Shields.</i>
-</p>
+<!-- 2. INTRODUCTION & CORE MISSION -->
+<div align="center">
+  <p>
+    I architect intelligent systems at the nexus of <b>Artificial Intelligence</b> and <b>Cyber Defense</b>. My work involves creating autonomous, secure, and resilient software solutions. I don't just write code—I build digital sentinels.
+  </p>
+  <p>
+    <a href="mailto:your.email.here@domain.com">
+      <img src="https://img.shields.io/badge/Email-Say_Hello-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email"/>
+    </a>
+    <a href="https://www.linkedin.com/in/your-linkedin-id">
+      <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+  </p>
+</div>
 
-<p align="center">
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email-Let's%20Talk-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://www.linkedin.com/in/your-linkedin-profile">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-</p>
+---
 
-<!-- 2. CORE PHILOSOPHY -->
-<!-- ======================= -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/AliZafar780/AliZafar780/main/divider.svg" alt="divider"/>
-</p>
+<!-- 3. FLAGSHIP PROJECTS -->
+## 🚀 Flagship Projects
+My development is focused on creating robust, standalone tools that solve complex problems.
 
-My laboratory is dedicated to a single thesis: the future of technology belongs to systems that are both intelligent and invulnerable. I don't build apps; I forge autonomous agents and design resilient defense systems from the ground up.
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🛡️ Z-SHIELD PRO</h3>
+      <p>A next-generation EDR & Active Firewall for Windows, built from the ground up. It employs behavioral analysis, YARA-based threat hunting, and digital signature verification to neutralize threats in real-time.</p>
+      <p>
+        <a href="https://github.com/AliZafar780/Z-SHIELD-PRO"><img src="https://img.shields.io/badge/View_Repository-302d41?style=for-the-badge&logo=github&logoColor=white"></a>
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+        <img src="https://img.shields.io/badge/YARA-orange?style=flat-square" alt="YARA"/>
+        <img src="https://img.shields.io/badge/Win32_API-0078D4?style=flat-square&logo=windows&logoColor=white" alt="Win32 API"/>
+        <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📘 AI Book Writer</h3>
+      <p>A desktop application that leverages the Gemini 1.5 Flash API to autonomously write complete books from user-defined prompts. Features a full GUI, plot customization, and direct-to-PDF export.</p>
+      <p>
+        <a href="https://github.com/AliZafar780/ai-book-writer"><img src="https://img.shields.io/badge/View_Repository-302d41?style=for-the-badge&logo=github&logoColor=white"></a>
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+        <img src="https://img.shields.io/badge/Gemini_1.5-DE4B3C?style=flat-square&logo=google-gemini&logoColor=white" alt="Gemini"/>
+        <img src="https://img.shields.io/badge/Tkinter-GUI-2C699A?style=flat-square" alt="Tkinter"/>
+        <img src="https://img.shields.io/badge/ReportLab-PDF-E44D26?style=flat-square" alt="ReportLab"/>
+      </p>
+    </td>
+  </tr>
+</table>
 
-- **Security is Not an Afterthought:** It is the foundation.
-- **Build for Autonomy:** Create systems that think, adapt, and operate independently.
-- **Code is Liability:** Write less, but write better. Every line must be defensible.
+---
 
-<!-- 3. FEATURED PROJECT SHOWCASE -->
-<!-- ============================= -->
-## 🛡️ Featured Project: Z-SHIELD PRO
+## 🛠️ Core Competencies & Technology Stack
+This is the arsenal I use to build, test, and deploy my systems.
 
 <table>
-<tr>
-<td width="65%">
-
-**A proactive threat neutralization system for Windows.** This is not a conventional antivirus that relies on outdated signatures. Z-SHIELD operates as a real-time Endpoint Detection & Response (EDR) tool, analyzing system behavior to identify and terminate threats before they can execute.
-
-**Key Features:**
-- **Behavioral Analysis Engine:** Monitors suspicious process chains (e.g., `Word.exe` -> `powershell.exe`).
-- **Active Firewall with Signature Verification:** Intercepts outbound connections from unsigned applications and prompts for user validation.
-- **YARA-Based Threat Hunting:** Deploys custom YARA rules to scan memory and disk for complex malware patterns.
-- **Persistent Whitelist/Blacklist:** Learns user decisions via a local SQLite database for trusted applications.
-
-</td>
-<td width="35%" align="center">
-
-**`[ Z-SHIELD IN ACTION ]`**
-
-```bash
-# Conceptual Flow
-$ zshield --monitor
-
-[INFO] NetworkFirewall: Live
-[HIGH] Firewall: Unsigned process 'svchost.exe' (PID: 3148) trying to connect to 198.51.100.45
-[INFO] Verifying digital signature... FAILED
-[ACTION] Connection BLOCKED.
-[PROMPT] User validation required...
-Use code with caution.
-Markdown
-<a href="https://github.com/AliZafar780/Z-SHIELD-PRO"><img src="https://img.shields.io/badge/View_Repository-302d41?style=for-the-badge&logo=github&logoColor=white"></a>
-</td>
-</tr>
+  <tr>
+    <td valign="top" width="33%">
+      <h4>Languages</h4>
+      <ul>
+        <li>Python</li>
+        <li>C / C++</li>
+        <li>Bash</li>
+        <li>SQL</li>
+      </ul>
+    </td>
+    <td valign="top" width="33%">
+      <h4>Specialized Libraries & Frameworks</h4>
+      <ul>
+        <li><b>AI/ML:</b> Google Generative AI, LangChain</li>
+        <li><b>Security:</b> YARA, Pwntools, Scapy</li>
+        <li><b>System:</b> Win32 API, Psutil, Multiprocessing</li>
+        <li><b>GUI/Data:</b> Tkinter, ReportLab</li>
+      </ul>
+    </td>
+    <td valign="top" width="33%">
+      <h4>Tools & Platforms</h4>
+      <ul>
+        <li><b>OS:</b> Windows & Linux (Kali, Ubuntu)</li>
+        <li><b>VCS:</b> Git & GitHub</li>
+        <li><b>Debugging:</b> GDB, x64dbg</li>
+        <li><b>Databases:</b> SQLite, VectorDBs</li>
+      </ul>
+    </td>
+  </tr>
 </table>
-<!-- 4. DEVELOPMENT PIPELINE (PROJECTS) -->
-<!-- ================================== -->
-🚀 Development Pipeline
-Status	Project Name	Core Objective	Key Technologies
-In-Dev	Z-SHIELD PRO	Proactive EDR & application firewall for Windows.	Python, Win32 API, YARA, SQLite
-Live	AI Book Writer	A desktop GUI that generates complete books from prompts using the Gemini API.	Python, Tkinter, Gemini AI
-Planned	AI Research Agent	Autonomous agent to perform research, ingest data, and generate intelligence briefs.	LangChain, LLMs, VectorDB
-Concept	Vuln-Crawler	A browser-based bot to automate the discovery of common web vulnerabilities.	JavaScript, Browser APIs
-<!-- 5. CORE COMPETENCIES (SKILLS) -->
-<!-- =============================== -->
-🛠️ Core Competencies
-<table>
-<tr>
-<td valign="top" width="50%">
-<h3 align="center">Languages & Paradigms</h3>
+
+---
+
+<!-- 4. GITHUB STATS & ACTIVITY -->
+## 📊 GitHub Statistics & Activity
 <div align="center">
-<img src="https://img.shields.io/badge/Python-Expert-3776AB?logo=python&logoColor=white" alt="Python"/>
-<img src="https://img.shields.io/badge/C/C++-Proficient-00599C?logo=c&logoColor=white" alt="C"/>
-<img src="https://img.shields.io/badge/SQL-Advanced-4479A1?logo=sqlite&logoColor=white" alt="SQL"/>
-<br>
-<img src="https://img.shields.io/badge/OOP-Principles-blue" alt="OOP"/>
-<img src="https://img.shields.io/badge/System_Programming-OS_Level-informational" alt="System Programming"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AliZafar780&show_icons=true&theme=merko&border_color=302d41&rank_icon=github" alt="Ali's GitHub stats" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliZafar780&layout=compact&theme=merko&border_color=302d41" alt="Top Langs" width="49%"/>
+  <br>
+  <img src="https://github.com/AliZafar780/AliZafar780/raw/main/assets/github-contribution-grid-snake.svg" alt="contribution snake">
 </div>
-</td>
-<td valign="top" width="50%">
-<h3 align="center">Security & AI Tooling</h3>
-<div align="center">
-<img src="https://img.shields.io/badge/YARA-Threat_Hunting-E84D2B" alt="YARA"/>
-<img src="https://img.shields.io/badge/pwntools-Exploitation-1E1E1E" alt="pwntools"/>
-<img src="https://img.shields.io/badge/Win32_API-System_Hooks-0078D4" alt="Win32 API"/>
-<br>
-<img src="https://img.shields.io/badge/Google_AI-LLM_Integration-4285F4?logo=google&logoColor=white" alt="Google AI"/>
-<img src="https://img.shields.io/badge/Tkinter-Desktop_GUI-FFD43B" alt="Tkinter"/>
-</div>
-</td>
-</tr>
-</table>
-<!-- 6. DEVELOPMENT ACTIVITY -->
-<!-- ======================= -->
-📊 Development Activity
+
+---
+
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AliZafar780&theme=react-dark&bg_color=1F222E&border_color=302D41&hide_border=true&line=95E6CB&point=FFFFFF&area=true" alt="GitHub Activity Graph"/>
-</p>
-<p align="center">
-<i>My repositories are open laboratories. Feel free to explore, challenge, or contribute to the code.</i>
+  <i>"Don't just use tech—command it."</i>
 </p>
