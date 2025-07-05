@@ -1,115 +1,98 @@
-<h1 align="center">Hey there, I'm Ali Zafar 👋</h1>
-<p align="center">
-  🚀 A curious mind crafting stories in code and ink — one idea at a time.
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=System+Builder+⚙️;Poetry+Lover+📖;AI+Tinkerer+🧠;PyQt6+Dev+💻;Always+Learning+🚀&center=true&width=500&height=45">
-</p>
-
----
-
-## 💡 About Me
-
-🎯 I'm a **self-driven builder**, blending software with creativity.  
-💬 Fluent in Python, poetry, and problems that need real-world solutions.  
-🛠️ Currently building:
-- A **custom real-time AI firewall** with GUI using PyQt6  
-- A **minimalist writing tool** for authors & poets → [AI Book Writer](https://github.com/AliZafar780/ai-book-writer)  
-- An **AI assistant** to support judiciary workflows in Pakistan
-
-> 💭 _"Curiosity didn’t kill me — it built me."_
-
----
-
-## 🚀 Current Missions
-
-<details>
-<summary>Tap to see my ongoing quests 🌱</summary>
-<br>
-
-- ⏳ Write code that lasts longer than trends  
-- ✍️ Journal and write daily (digital & ink)  
-- 🧠 Learn more about ethical hacking and AI safety  
-- 💡 Launch tools that matter, not just impress  
-- 🌙 Keep nights for silence, poetry, and purpose  
-
-</details>
-
----
-
-## 🛠️ Tech Toolbox
+<!-- 
+  REFORGED BY Z-BOT. THIS ISN'T JUST A PROFILE; IT'S A STATEMENT.
+  USERNAME: AliZafar780
+-->
 
 <div align="center">
-
-![Python](https://img.shields.io/badge/-Python-05122A?style=for-the-badge&logo=python)
-![PyQt6](https://img.shields.io/badge/-PyQt6-41CD52?style=for-the-badge&logo=qt&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Scapy](https://img.shields.io/badge/-Scapy-3776AB?style=for-the-badge&logo=python)
-![Bash](https://img.shields.io/badge/-Bash-1f1f1f?style=for-the-badge&logo=gnubash)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
-![Markdown](https://img.shields.io/badge/-Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-
+  <a href="https://github.com/AliZafar780">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AliZafar780&repo=Z-SHIELD-PRO&theme=dracula&border_color=302d41&title_color=95e6cb&icon_color=95e6cb" alt="Pinned Project: Z-SHIELD PRO">
+  </a>
 </div>
 
----
-
-## 🌟 Featured Projects
-
-| 💼 Project        | 🔍 Description                                           | 📌 Status     |
-|------------------|----------------------------------------------------------|---------------|
-| 🔥 AI Firewall    | Real-time GUI-based smart firewall for threat detection  | 🛠️ In Dev      |
-| ✍️ BookWriter     | Desktop writing tool for authors & poets                 | ✅ Stable      |
-| ⚖️ LawAI Toolkit  | Legal assistant for Pakistan's judiciary (AI-powered)    | 🧪 R&D Phase   |
-| 🧠 Zero-Day Lab   | Experimental AI security tools & research                | ⚙️ Ongoing     |
-
----
-
-## 📈 GitHub Stats
-
+<h1 align="center">Ali Zafar</h1>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AliZafar780&show_icons=true&theme=radical" width="45%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliZafar780&layout=compact&theme=radical" width="45%"/>
-</p>
-
----
-
-## 🔗 Connect With Me
-
-<p align="center">
-  <a href="https://www.instagram.com/alizafar_69/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/instagram.svg" width="35" height="35" />
-  </a>&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/ali-zafar-557989201" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" width="35" height="35" />
-  </a>&nbsp;&nbsp;
-  <!-- Twitter link placeholder -->
-  <a href="#" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/twitter.svg" width="35" height="35" />
+  <i>Building the bridge between Artificial Intelligence and Cyber Defense.</i>
+  <br>
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://www.linkedin.com/in/your-linkedin-profile">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
 
 ---
 
-## 🎧 Dev Quote of the Day
+I don't just write code; I build digital fortresses and intelligent agents. My work lives at the intersection of machine learning and system security, where I create tools that are not only smart but also secure by design. Based in 🇵🇰 Pakistan, my mission is to command technology, not just use it.
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</p>
-
----
-
-## 🧠 Fun Fact
-
-> _“Some nights I debug code. Some nights I decode people. Some nights I write poems. And some nights... I just observe.”_
+- 🧠 **AI Developer:** Crafting autonomous agents and AI-driven automation tools.
+- 🛡️ **Security Architect:** Designing and implementing OS-level defense systems.
+- 🐍 **Python Specialist:** Leveraging Python to build powerful, standalone applications.
 
 ---
 
-<p align="center">
-  ⭐️ If you liked this profile, consider giving it a star — it might just make my day!
-</p>
+## 🚀 Pinned Projects & Roadmap
+
+My focus is on creating tangible, high-impact tools. Here's what I'm building.
+
+| Project                                                                | Description                                                                                             | Status                                                                                                 | Tech Stack                                                                                                                                                                             |
+| ---------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 🛡️ **[Z-SHIELD PRO](https://github.com/AliZafar780/Z-SHIELD-PRO)**         | A next-gen EDR & Firewall for Windows. Uses YARA, behavioral analysis, and digital signature verification to stop threats in real-time. | <img src="https://img.shields.io/badge/Status-In_Development-blueviolet?style=flat-square" alt="Status"/> | <img src="https://img.shields.io/badge/Python-3.11-blue?logo=python&logoColor=white&style=flat-square" /> <img src="https://img.shields.io/badge/YARA-Scanning-orange?style=flat-square" /> <img src="https://img.shields.io/badge/Win32-API-informational?style=flat-square" /> |
+| 📘 **[AI Book Writer](https://github.com/AliZafar780/ai-book-writer)**     | An AI-powered desktop app that writes entire books from user prompts using the Gemini API. Exports to PDF.      | <img src="https://img.shields.io/badge/Status-Live-success?style=flat-square" alt="Status"/>           | <img src="https://img.shields.io/badge/Python-3.11-blue?logo=python&logoColor=white&style=flat-square" /> <img src="https://img.shields.io/badge/Tkinter-GUI-green?style=flat-square" /> <img src="https://img.shields.io/badge/Gemini_AI-API-red?style=flat-square" />      |
+| 🧠 **AI Research Agent**                                               | An autonomous bot that ingests documents, performs web research, and generates summarized intelligence reports on any given topic. | <img src="https://img.shields.io/badge/Status-Planned-lightgrey?style=flat-square" alt="Status"/>      | `Python`, `LangChain`, `LLMs`, `VectorDB`                                                                                                                                              |
+
+---
+
+## 🛠️ My Arsenal (Tech & Tools)
+
+A list is for groceries. This is a tech stack.
+
+<table>
+  <tr>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Python" />
+      <br><strong>Python</strong>
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="48" height="48" alt="C" />
+      <br><strong>C</strong>
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="48" height="48" alt="Bash" />
+      <br><strong>Bash</strong>
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="48" height="48" alt="SQLite" />
+      <br><strong>SQLite</strong>
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git" />
+      <br><strong>Git</strong>
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="48" height="48" alt="Linux" />
+      <br><strong>Linux</strong>
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="48" height="48" alt="Windows" />
+      <br><strong>Windows</strong>
+    </td>
+  </tr>
+</table>
+
+**Specialized Libraries:** `Google Generative AI`, `YARA`, `pwntools`, `psutil`, `Tkinter`, `ReportLab`, `Win32 API`
+
+---
+
+## 📈 GitHub Statistics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AliZafar780&show_icons=true&theme=dracula&border_color=302d41&rank_icon=github" alt="Ali's GitHub stats" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliZafar780&layout=compact&theme=dracula&border_color=302d41" alt="Top Langs" width="49%"/>
+</div>
+
+---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AliZafar780&color=blue" alt="profile views" />
+  <i>If a project sparks your interest, give it a ⭐. It fuels the next line of code.</i>
 </p>
