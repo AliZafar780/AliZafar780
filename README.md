@@ -1,116 +1,98 @@
-<!--
-  PROFILE ARCHITECTURE BY Z-BOT
-  IDENTITY: AliZafar780
-  OBJECTIVE: ESTABLISH TECHNICAL AUTHORITY
+<!-- 
+  REFORGED BY Z-BOT. THIS ISN'T JUST A PROFILE; IT'S A STATEMENT.
+  USERNAME: AliZafar780
 -->
 
-<!-- 1. HEADER BANNER -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/AliZafar780/AliZafar780/main/assets/github_banner.png" alt="Ali Zafar - Architect of Intelligent Defense Systems">
+  <a href="https://github.com/AliZafar780">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AliZafar780&repo=Z-SHIELD-PRO&theme=dracula&border_color=302d41&title_color=95e6cb&icon_color=95e6cb" alt="Pinned Project: Z-SHIELD PRO">
+  </a>
 </div>
 
-<!-- 2. INTRODUCTION & CORE MISSION -->
-<div align="center">
-  <p>
-    I architect intelligent systems at the nexus of <b>Artificial Intelligence</b> and <b>Cyber Defense</b>. My work involves creating autonomous, secure, and resilient software solutions. I don't just write code—I build digital sentinels.
-  </p>
-  <p>
-    <a href="mailto:your.email.here@domain.com">
-      <img src="https://img.shields.io/badge/Email-Say_Hello-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email"/>
-    </a>
-    <a href="https://www.linkedin.com/in/your-linkedin-id">
-      <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-    </a>
-  </p>
-</div>
+<h1 align="center">Ali Zafar</h1>
+<p align="center">
+  <i>Building the bridge between Artificial Intelligence and Cyber Defense.</i>
+  <br>
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://www.linkedin.com/in/your-linkedin-profile">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
 
 ---
 
-<!-- 3. FLAGSHIP PROJECTS -->
-## 🚀 Flagship Projects
-My development is focused on creating robust, standalone tools that solve complex problems.
+I don't just write code; I build digital fortresses and intelligent agents. My work lives at the intersection of machine learning and system security, where I create tools that are not only smart but also secure by design. Based in 🇵🇰 Pakistan, my mission is to command technology, not just use it.
 
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🛡️ Z-SHIELD PRO</h3>
-      <p>A next-generation EDR & Active Firewall for Windows, built from the ground up. It employs behavioral analysis, YARA-based threat hunting, and digital signature verification to neutralize threats in real-time.</p>
-      <p>
-        <a href="https://github.com/AliZafar780/Z-SHIELD-PRO"><img src="https://img.shields.io/badge/View_Repository-302d41?style=for-the-badge&logo=github&logoColor=white"></a>
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-        <img src="https://img.shields.io/badge/YARA-orange?style=flat-square" alt="YARA"/>
-        <img src="https://img.shields.io/badge/Win32_API-0078D4?style=flat-square&logo=windows&logoColor=white" alt="Win32 API"/>
-        <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite"/>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>📘 AI Book Writer</h3>
-      <p>A desktop application that leverages the Gemini 1.5 Flash API to autonomously write complete books from user-defined prompts. Features a full GUI, plot customization, and direct-to-PDF export.</p>
-      <p>
-        <a href="https://github.com/AliZafar780/ai-book-writer"><img src="https://img.shields.io/badge/View_Repository-302d41?style=for-the-badge&logo=github&logoColor=white"></a>
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-        <img src="https://img.shields.io/badge/Gemini_1.5-DE4B3C?style=flat-square&logo=google-gemini&logoColor=white" alt="Gemini"/>
-        <img src="https://img.shields.io/badge/Tkinter-GUI-2C699A?style=flat-square" alt="Tkinter"/>
-        <img src="https://img.shields.io/badge/ReportLab-PDF-E44D26?style=flat-square" alt="ReportLab"/>
-      </p>
-    </td>
-  </tr>
-</table>
+- 🧠 **AI Developer:** Crafting autonomous agents and AI-driven automation tools.
+- 🛡️ **Security Architect:** Designing and implementing OS-level defense systems.
+- 🐍 **Python Specialist:** Leveraging Python to build powerful, standalone applications.
 
 ---
 
-## 🛠️ Core Competencies & Technology Stack
-This is the arsenal I use to build, test, and deploy my systems.
+## 🚀 Pinned Projects & Roadmap
+
+My focus is on creating tangible, high-impact tools. Here's what I'm building.
+
+| Project                                                                | Description                                                                                             | Status                                                                                                 | Tech Stack                                                                                                                                                                             |
+| ---------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 🛡️ **[Z-SHIELD PRO](https://github.com/AliZafar780/Z-SHIELD-PRO)**         | A next-gen EDR & Firewall for Windows. Uses YARA, behavioral analysis, and digital signature verification to stop threats in real-time. | <img src="https://img.shields.io/badge/Status-In_Development-blueviolet?style=flat-square" alt="Status"/> | <img src="https://img.shields.io/badge/Python-3.11-blue?logo=python&logoColor=white&style=flat-square" /> <img src="https://img.shields.io/badge/YARA-Scanning-orange?style=flat-square" /> <img src="https://img.shields.io/badge/Win32-API-informational?style=flat-square" /> |
+| 📘 **[AI Book Writer](https://github.com/AliZafar780/ai-book-writer)**     | An AI-powered desktop app that writes entire books from user prompts using the Gemini API. Exports to PDF.      | <img src="https://img.shields.io/badge/Status-Live-success?style=flat-square" alt="Status"/>           | <img src="https://img.shields.io/badge/Python-3.11-blue?logo=python&logoColor=white&style=flat-square" /> <img src="https://img.shields.io/badge/Tkinter-GUI-green?style=flat-square" /> <img src="https://img.shields.io/badge/Gemini_AI-API-red?style=flat-square" />      |
+| 🧠 **AI Research Agent**                                               | An autonomous bot that ingests documents, performs web research, and generates summarized intelligence reports on any given topic. | <img src="https://img.shields.io/badge/Status-Planned-lightgrey?style=flat-square" alt="Status"/>      | `Python`, `LangChain`, `LLMs`, `VectorDB`                                                                                                                                              |
+
+---
+
+## 🛠️ My Arsenal (Tech & Tools)
+
+A list is for groceries. This is a tech stack.
 
 <table>
   <tr>
-    <td valign="top" width="33%">
-      <h4>Languages</h4>
-      <ul>
-        <li>Python</li>
-        <li>C / C++</li>
-        <li>Bash</li>
-        <li>SQL</li>
-      </ul>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Python" />
+      <br><strong>Python</strong>
     </td>
-    <td valign="top" width="33%">
-      <h4>Specialized Libraries & Frameworks</h4>
-      <ul>
-        <li><b>AI/ML:</b> Google Generative AI, LangChain</li>
-        <li><b>Security:</b> YARA, Pwntools, Scapy</li>
-        <li><b>System:</b> Win32 API, Psutil, Multiprocessing</li>
-        <li><b>GUI/Data:</b> Tkinter, ReportLab</li>
-      </ul>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="48" height="48" alt="C" />
+      <br><strong>C</strong>
     </td>
-    <td valign="top" width="33%">
-      <h4>Tools & Platforms</h4>
-      <ul>
-        <li><b>OS:</b> Windows & Linux (Kali, Ubuntu)</li>
-        <li><b>VCS:</b> Git & GitHub</li>
-        <li><b>Debugging:</b> GDB, x64dbg</li>
-        <li><b>Databases:</b> SQLite, VectorDBs</li>
-      </ul>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="48" height="48" alt="Bash" />
+      <br><strong>Bash</strong>
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="48" height="48" alt="SQLite" />
+      <br><strong>SQLite</strong>
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git" />
+      <br><strong>Git</strong>
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="48" height="48" alt="Linux" />
+      <br><strong>Linux</strong>
+    </td>
+    <td align="center" width="120">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="48" height="48" alt="Windows" />
+      <br><strong>Windows</strong>
     </td>
   </tr>
 </table>
 
+**Specialized Libraries:** `Google Generative AI`, `YARA`, `pwntools`, `psutil`, `Tkinter`, `ReportLab`, `Win32 API`
+
 ---
 
-<!-- 4. GITHUB STATS & ACTIVITY -->
-## 📊 GitHub Statistics & Activity
+## 📈 GitHub Statistics
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AliZafar780&show_icons=true&theme=merko&border_color=302d41&rank_icon=github" alt="Ali's GitHub stats" width="49%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliZafar780&layout=compact&theme=merko&border_color=302d41" alt="Top Langs" width="49%"/>
-  <br>
-  <img src="https://github.com/AliZafar780/AliZafar780/raw/main/assets/github-contribution-grid-snake.svg" alt="contribution snake">
+  <img src="https://github-readme-stats.vercel.app/api?username=AliZafar780&show_icons=true&theme=dracula&border_color=302d41&rank_icon=github" alt="Ali's GitHub stats" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliZafar780&layout=compact&theme=dracula&border_color=302d41" alt="Top Langs" width="49%"/>
 </div>
 
 ---
 
 <p align="center">
-  <i>"Don't just use tech—command it."</i>
+  <i>If a project sparks your interest, give it a ⭐. It fuels the next line of code.</i>
 </p>
