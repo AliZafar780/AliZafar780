@@ -3,11 +3,6 @@
   USERNAME: AliZafar780
 -->
 
-<div align="center">
-  <a href="https://github.com/AliZafar780">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AliZafar780&repo=Z-SHIELD-PRO&theme=dracula&border_color=302d41&title_color=95e6cb&icon_color=95e6cb" alt="Pinned Project: Z-SHIELD PRO">
-  </a>
-</div>
 
 <h1 align="center">Ali Zafar</h1>
 <p align="center">
