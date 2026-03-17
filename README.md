@@ -1,22 +1,5 @@
-<!---
-╔══════════════════════════════════════════════════════════════════════════════╗
-║                                                                              ║
-║   ██████╗ ███████╗████████╗██████╗  ██████╗     ██████╗  ██████╗ ████████╗    ║
-║  ██╔════╝ ██╔════╝╚══██╔══╝██╔══██╗██╔═══██╗    ██╔══██╗ ██╔═══██╗╚══██╔══╝    ║
-║  ██║  ███╗█████╗     ██║   ██████╔╝██║   ██║    ██████╔╝ ██║   ██║   ██║       ║
-║  ██║   ██║██╔══╝     ██║   ██╔══██╗██║   ██║    ██╔══██╗ ██║   ██║   ██║       ║
-║  ╚██████╔╝███████╗   ██║   ██║  ██║╚██████╔╝    ██████╔╝ ╚██████╔╝   ██║       ║
-║   ╚═════╝ ╚══════╝   ╚═╝   ╚═╝  ╚═╝ ╚═════╝     ╚═════╝   ╚═════╝    ╚═╝       ║
-║                                                                              ║
-║   ██████╗ ██╗   ██╗██╗   ██╗██╗  ██╗████████╗██╗ ██████╗                   ║
-║  ██╔════╝ ██║   ██║██║   ██║██║ ██╔╝╚══██╔══╝██║██╔════╝                   ║
-║  ██║  ███╗██║   ██║██║   ██║█████╔╝    ██║   ██║█████╗                     ║
-║  ██║   ██║██║   ██║██║   ██║██╔═██╗    ██║   ██║██╔══╝                     ║
-║  ╚██████╔╝╚██████╔╝╚██████╔╝██║  ██╗   ██║   ██║██║                        ║
-║   ╚═════╝  ╚═════╝  ╚═════╝ ╚═╝  ╚═╝   ╚═╝   ╚═╝╚═╝                        ║
-║                                                                              ║
-╚══════════════════════════════════════════════════════════════════════════════╝
---->
+# 👨‍💻 Ali Zafar - Cyber Intelligence Architect
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&color=00FF00&center=true&vCenter=true&width=800&height=80&lines=Ali+Zafar;Cyber-Intelligence+Architect;Neural+Systems+Engineer;0x01+0x02+0x03=INFINITY" alt="Typing SVG" />
 </p>
@@ -29,199 +12,66 @@
 
 ---
 
-## ░▒▓ SYSTEM STATUS: OPERATIONAL ▓▒░
+## 🔐 About Me
 
-```
-┌─────────────────────────────────────────────────────────────────────────────┐
-│  USER:     Ali Zafar                                                      │
-│  ROLE:     Cyber-Intelligence Architect                                   │
-│  SECURITY: CLEARED [LEVEL 5]                                              │
-│  UPTIME:   99.9%                                                          │
-│  STATUS:   ACTIVE - Hunting Vulnerabilities                               │
-└─────────────────────────────────────────────────────────────────────────────┘
-```
+| Attribute | Details |
+|:----------|:--------|
+| 🎯 **Role** | Cyber Intelligence Architect |
+| 🧠 **Focus** | AI/ML, Security, Systems |
+| 🌍 **Location** | Pakistan |
+| 💼 **Status** | Open for opportunities |
 
----
+## 🛠️ Tech Stack
 
-## ╔══════════════════════════════════════════════════════════════════════════════╗
-║                           0x01  TACTICAL BRIEFING                            ║
-╚══════════════════════════════════════════════════════════════════════════════╝
-
-> *"In the digital realm, entropy is my playground. I architect systems that think, adapt, and penetrate."*
-
-### 🎯 Core Domains
-
-| Domain | Capabilities | Threat Level |
-|:-------|:------------|:-------------|
-| **OFFENSIVE** | Kernel Exploitation, RF/SDR Attacks, WiFi Cracking, Web Exploitation | 🔴 CRITICAL |
-| **DEFENSIVE** | EDR Development, eBPF Monitoring, Digital Forensics, YARA-X | 🟡 ELEVATED |
-| **AI/ML** | Agentic LLMs, Neural Networks, Autonomous Pentesting, Threat Hunting | 🔴 CRITICAL |
-
----
-
-## ╔══════════════════════════════════════════════════════════════════════════════╗
-║                           0x02  ARSENAL DEPLOYMENT                           ║
-╚══════════════════════════════════════════════════════════════════════════════╝
-
-### 💀 Offensive Operations
-
-| Project | Classification | Status |
-|:--------|:--------------|:-------|
-| **[wifi-cracking-Suite]** | 802.11 Auditor (WPA2/3, PMKID, Handshake) | `DEPLOYED` |
-| **[WifiRDR]** | WiFi Red Dragon - Advanced RF Exploitation | `DEPLOYED` |
-| **[Advanced-Web-Vulnerability-Scanner]** | Multi-vector Web Exploitation Engine | `OPERATIONAL` |
-| **[WIFI-HACK-TOOLKIT]** | Legacy WPA/WPA2 Auditing Suite | `DEPRECATED` |
-
-### 🛡️ Defensive Systems
-
-| Project | Classification | Status |
-|:--------|:--------------|:-------|
-| **[is-this-legit]** | AI-Powered Phishing Detection (Browser Extension) | `OPERATIONAL` |
-| **[DevMaster-AI]** | AI Development Platform with Security Hardening | `ACTIVE` |
-| **[Skynet]** | Next-Gen Security Monitoring System | `R&D` |
-
-### 🤖 Autonomous Agents
-
-| Project | Classification | Status |
-|:--------|:--------------|:-------|
-| **[Jarvis]** | LLM-Powered Voice-Controlled AI Assistant | `BETA` |
-| **[pc-control]** | AI-Driven Social Media Automation | `OPERATIONAL` |
-| **[agent]** | Generic Autonomous Agent Framework | `EXPERIMENTAL` |
-| **[ai-book-writer]** | AI-Powered Book Generation System | `ACTIVE` |
-
-### 🔧 Development & Tools
-
-| Project | Classification | Status |
-|:--------|:--------------|:-------|
-| **[TECH]** | Tech Repository & Research Notes | `ACTIVE` |
-| **[Daily-Hadith]** | Islamic Knowledge App (React + FastAPI) | `OPERATIONAL` |
-| **[Adam-TCA]** | Adam TCA Framework | `R&D` |
-| **[insta-CLI]** | Instagram CLI Tool | `MAINTAINED` |
-
----
-
-## ╔══════════════════════════════════════════════════════════════════════════════╗
-║                           0x03  TECHNICAL STACK                              ║
-╚══════════════════════════════════════════════════════════════════════════════╝
-
-```python
-class CyberArchitect:
-    def __init__(self):
-        # Core Languages
-        self.low_level    = ["C", "C++", "Rust", "Assembly"]
-        self.systems      = ["Go", "Python", "Bash"]
-        self.web          = ["JavaScript", "TypeScript", "FastAPI", "React"]
-        
-        # Offensive tradecraft
-        self.exploitation = [
-            "Kernel Exploitation",
-            "Reverse Engineering", 
-            "Buffer Overflows",
-            "Format String Attacks",
-            "Heap Spraying"
-        ]
-        
-        # RF & Wireless
-        self.wireless     = [
-            "802.11 Auditing",
-            "SDR/GNU Radio",
-            "Bluetooth LE",
-            "RFID/NFC"
-        ]
-        
-        # Defensive tradecraft
-        self.defensive    = [
-            "eBPF/XDP",
-            "YARA-X Rules",
-            "EDR Development",
-            "Malware Analysis",
-            "Digital Forensics"
-        ]
-        
-        # AI/ML
-        self.ml_ai        = [
-            "LLM Fine-tuning",
-            "Agentic Systems",
-            "Computer Vision",
-            "Neural Networks",
-            "Reinforcement Learning"
-        ]
-        
-        # Current focus
-        self.current_mission = "Autonomous Vulnerability Research"
-        
-    def deploy(self):
-        return "Systems operational. Awaiting commands."
-
-architect = CyberArchitect()
-print(architect.deploy())
-# Output: Systems operational. Awaiting commands.
-```
-
----
-
-## ╔══════════════════════════════════════════════════════════════════════════════╗
-║                           0x04  LIVE THREAT INTEL                            ║
-╚══════════════════════════════════════════════════════════════════════════════╝
-
-<p align="center">
-
-```
-    ██████╗ ██████╗  ██████╗  █████╗ ██████╗ ██████╗ ██╗   ██╗███████╗██╗     
-    ██╔══██╗██╔══██╗██╔═══██╗██╔══██╗██╔══██╗██╔══██╗╚██╗ ██╔╝██╔════╝██║     
-    ██████╔╝██████╔╝██║   ██║███████║██████╔╝██████╔╝ ╚████╔╝ ███████╗██║     
-    ██╔═══╝ ██╔══██╗██║   ██║██╔══██║██╔══██╗██╔═══╝   ╚██╔╝  ╚════██║╚═╝     
-    ██║     ██║  ██║╚██████╔╝██║  ██║██║  ██║██║        ██║   ███████║██╗     
-    ╚═╝     ╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝        ╚═╝   ╚══════╝╚═╝     
-                                                                             
-    ███╗   ██╗███████╗██╗  ██╗██╗   ██╗███████╗                                     
-    ████╗  ██║██╔════╝██║  ██║██║   ██║██╔════╝                                     
-    ██╔██╗ ██║█████╗  ███████║██║   ██║███████╗                                     
-    ██║╚██╗██║██╔══╝  ██╔══██║██║   ██║╚════██║                                     
-    ██║ ╚████║███████╗██║  ██║╚██████╔╝███████║                                     
-    ╚═╝  ╚═══╝╚══════╝╚═╝  ╚═╝ ╚═════╝ ╚══════╝                                     
-```
-
+### Languages
+<p>
+  <img src="https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54" alt="Python" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white" alt="Go" />
+  <img src="https://img.shields.io/badge/Rust-DEA584?style=flat&logo=rust&logoColor=white" alt="Rust" />
 </p>
 
-### GitHub Activity
+### AI/ML
+<p>
+  <img src="https://img.shields.io/badge/PyTorch-EE6842?style=flat&logo=pytorch" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai" alt="OpenAI" />
+  <img src="https://img.shields.io/badge/Anthropic-5469FF?style=flat" alt="Anthropic" />
+</p>
 
-| Metric | Value |
-|:-------|:------|
-| Total Commits | `900+` |
-| Repositories | `17+` |
-| Stars Earned | `120+` |
-| Problems Solved | `500+` |
+### Cloud & DevOps
+<p>
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazon-aws" alt="AWS" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker" alt="Docker" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions" alt="GitHub Actions" />
+</p>
 
----
-
-## ╔══════════════════════════════════════════════════════════════════════════════╗
-║                           0x05  CONTACT PROTOCOL                             ║
-╚══════════════════════════════════════════════════════════════════════════════╝
-
-```
-┌─────────────────────────────────────────────────────────────────────────────┐
-│  ESTABLISH SECURE CHANNEL                                                  │
-├─────────────────────────────────────────────────────────────────────────────┤
-│                                                                             │
-│  📧 Email:    [REDACTED]                                                   │
-│  💬 Discord:  ali_zafar#780                                                │
-│  🐦 Twitter:  @AliZafar780                                                 │
-│  🔐 Keybase:  @alizafar                                                     │
-│                                                                             │
-└─────────────────────────────────────────────────────────────────────────────┘
-```
-
-> ⚠️ **WARNING**: This profile contains controlled cryptographic material. Unauthorized access is prohibited under 18 U.S.C. § 1030.
-
----
-
-```
-░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
-  ░░  SYSTEM INTERFACE TERMINATED ░░  SESSION EXPIRED ░░  GOODBYE ░░  ░░░░░░░░
-░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
-```
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00ff00&height=100&section=footer" alt="Footer" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AliZafar780&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliZafar780&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" alt="Top Languages" />
 </p>
+
+## 🏆 Achievements
+
+- 🛡️ Security researcher & penetration tester
+- 🤖 AI/ML practitioner
+- 📱 Full-stack developer
+- ☁️ Cloud architecture enthusiast
+
+## 📫 Connect
+
+<p align="center">
+  <a href="https://github.com/AliZafar780">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="mailto:contact@alizafar.dev">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+---
+
+*Building the future, one commit at a time 🚀*
