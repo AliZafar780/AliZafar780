@@ -7,8 +7,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AliZafar780&label=VISITOR&style=flat-square&color=00ff00" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/AliZafar780?style=flat-square&color=00ff00&label=Followers" alt="GitHub Followers" />
-  <img src="https://img.shields.io/badge/SEC-LEVEL-REDACTED-00ff00?style=flat-square" alt="Security Level" />
-</p>
+  <img 
 
 ---
 
