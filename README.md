@@ -74,7 +74,7 @@ Exploit   │ pwntools · msfvenom · donut · shellter
 
 ![Offensive Security](https://img.shields.io/badge/Offensive_Security-EXPERT-ff4444?style=for-the-badge&labelColor=1a1a2e)
 ![Defensive DFIR](https://img.shields.io/badge/Defensive_DFIR-EXPERT-00ff88?style=for-the-badge&labelColor=1a1a2e)
-![AI/ML Engineering](https://img.shields.io/badge/AI%2FML-ADVANCED-8844ff?style=for-the-badge&labelColor=1a1a2e)
+![AI ML](https://img.shields.io/badge/AI_ML-ADVANCED-8844ff?style=for-the-badge&labelColor=1a1a2e)
 ![Python](https://img.shields.io/badge/Python-EXPERT-3776AB?style=for-the-badge&labelColor=1a1a2e)
 
 ![C/C++/Rust](https://img.shields.io/badge/C%2FC%2B%2B%2FRust-INTERMEDIATE-555555?style=for-the-badge&labelColor=1a1a2e)
